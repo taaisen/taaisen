@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taaisen
 - 👀 I’m interested in Craft spirits, Coding & Cryptocurrencies
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on My Crypto project that runs on the Harmony blockchain (STEAK)
+- 💞️ I’m looking to collaborate on spirits industry innovations and crypto
 - 📫 You can reach me at ironmiketaaisen@gmail.com
 
 <!---
